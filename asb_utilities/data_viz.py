@@ -1,4 +1,4 @@
-def altair_custom():
+def altair_theme():
     """
     This function defines an Altair theme.
     """
